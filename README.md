@@ -73,3 +73,7 @@ Full analysis in [`docs/vendor_performance_report.md`](docs/vendor_performance_r
 3. Run `python python/load_to_mysql.py` to load data (point it at your own raw CSVs).
 4. Run `python python/eda_analysis.py` to generate the vendor summary table and charts.
 5. Open `powerbi/vendor_performance_dashboard.pbix` in Power BI Desktop and refresh the data source.
+
+## Project Reports
+- [Project Problem Statement](docs/Vendor_Performance_Analysis_Report.docx)
+- [Executive Business Insights Report](docs/Vendor_Performance_Executive_Insights_Report.docx)
